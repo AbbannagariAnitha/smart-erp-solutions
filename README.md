@@ -1,3 +1,15 @@
+# To run smart-erp-solutions please follow below steps
+clone this repo
+cd smart-erp-solutions
+npm install
+npm start
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
